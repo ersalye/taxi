@@ -74,6 +74,6 @@ if(isset($_POST['message']) and isset($_POST['name'])) {
 }
 else {
  // if "name" or "message" vars not send ('name' attribute of contact form input fields was changed)
- echo '"name" and "message" variables were not received by server. Please check "name" attributes for your input fields....!!!';
+ echo '"name" and "message" variables were not received by server. Please check "name" attributes for your input fields....!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!';
 }
 ?>
